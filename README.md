@@ -10,7 +10,13 @@ This preset includes the following plugins/presets:
 ## Install
 
 ```bash
-$ npm install --save-dev babel-preset-wonders
+$ npm i -D babel-preset-wonders
+```
+
+or with [yarn](https://yarnpkg.com)
+
+```bash
+$ yarn add -D babel-preset-wonders
 ```
 
 ## Usage
