@@ -4,7 +4,8 @@
 
 This preset includes the following plugins/presets:
 
-- [transform-react-jsx](https://babeljs.io/docs/plugins/transform-react-jsx/)
+- [preset-es2015](https://babeljs.io/docs/plugins/#transform-plugins-es2015)
+- [plugin-transform-react-jsx](https://babeljs.io/docs/plugins/transform-react-jsx/)
 
 ## Install
 
